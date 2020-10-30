@@ -79,6 +79,7 @@ export default {
 <style lang="scss">
 .myStation {
   margin-top: 50px;
+  text-align: left;
   .myStation__link {
     height: 200px;
     display: block;

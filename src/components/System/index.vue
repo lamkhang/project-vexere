@@ -61,6 +61,7 @@ export default {};
 <style lang="scss">
 .mySystem {
   margin-top: 50px;
+  text-align: left;
   .mySystem-group {
     display: flex;
     justify-content: center;

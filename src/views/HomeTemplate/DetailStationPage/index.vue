@@ -27,7 +27,7 @@
       </div>
       <div class="col-sm-8" style="border-left: 1px solid #ddd">
         <div class="detailStation-panel">
-          <h4 style="margin-bottom: 40px;"  v-if="trips.length > 0">ALL Trips in {{station.name}}</h4>
+          <h4 style="margin-bottom: 40px;"  v-if="trips.length > 0">All Trips in {{station.name}}</h4>
           <table class="table table-striped" v-if="trips.length > 0">
             <thead>
               <tr>
